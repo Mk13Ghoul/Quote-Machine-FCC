@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quote-Machine-FCC/static/css/main.8f7c0a43.css",
+    "main.js": "/Quote-Machine-FCC/static/js/main.f758b6e0.js",
+    "index.html": "/Quote-Machine-FCC/index.html",
+    "main.8f7c0a43.css.map": "/Quote-Machine-FCC/static/css/main.8f7c0a43.css.map",
+    "main.f758b6e0.js.map": "/Quote-Machine-FCC/static/js/main.f758b6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7c0a43.css",
+    "static/js/main.f758b6e0.js"
+  ]
+}
